@@ -1,4 +1,6 @@
 # test
 * just a test
 * to see how this works
-and an extra line
+* and an extra line
+* added
+
